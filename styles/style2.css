@@ -1,0 +1,13 @@
+body{
+    background-image: url('https://www.washingtonpost.com/resizer/5PlO0ep0BwLMD1NBiazEWMSCxSo=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CB55JSELREI6RHKZ3TGCYDFLZ4.jpg');
+    color: cyan;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+h1{
+    color: cornflowerblue;
+
+}
+    h2{
+        color: darksalmon;
+    }
